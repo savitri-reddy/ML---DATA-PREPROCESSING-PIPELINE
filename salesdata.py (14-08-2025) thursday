@@ -1,3 +1,6 @@
+# 14-08-2025(thursday)
+
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -33,4 +36,5 @@ c = regressor.intercept_
 (m*12)+c
 
 (m*20)+c
+
 
